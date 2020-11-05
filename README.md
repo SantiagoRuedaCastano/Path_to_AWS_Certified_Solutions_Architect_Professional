@@ -1,1 +1,2 @@
-# Path_to_AWS_Certified_Solutions_Architect_Professional
+# Path to AWS Certified Solutions Architect Professional
+Path to AWS Certified Solutions Architect Professional
